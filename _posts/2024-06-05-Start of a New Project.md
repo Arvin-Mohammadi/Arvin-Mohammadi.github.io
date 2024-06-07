@@ -1,6 +1,6 @@
 ---
 title: Start of a New Project
-date: 2024-06-06 23:00:00
+date: 2024-06-05 23:00:00
 categories: [Diary]
 tags: [my_thoughts]
 toc: false

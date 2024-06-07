@@ -1,0 +1,24 @@
+---
+title: Melancholy 
+date: 2024-06-06 15:38:11
+categories: [Diary]
+tags: [my_thoughts]
+toc: false
+---
+
+![Cowboy Bebop](assets/img/posts/2024-06-07/1.gif)
+
+**Today, I want to talk about "Melancholy"**, Google says it means being sad with no apparent reason. I don't use it that way. I don't know if this resonates with you, the reader, but for me in summer breaks when I was in middle school, I woke up knowing that all I have to is "exist". What I mean by that is that no one was pressuring me to do anything. I could just laze around all day and do nothing. I got bored eventually of course, and started doing things. small things. Reading a book. Watching an animation. Watching a series. Going out with my imaginary friends to buy something from the mall. There is always this sense of nothingness, not in a bad way, but rather in a calming manner. I couldn't appreciate it at the time. But now, it's different. That's what I call melancholy. That sense of "calming boredom" if that's even a meaningful phrase. 
+
+
+![Cowboy Bebop](assets/img/posts/2024-06-07/2.jpg){: .w-50 .left}
+
+**When I grew up, the poinsonous way that people think, started to find its way into my head.** Of course growing up you slowly find yourself having more responsibilities, that's only natural. But the way everyone goes about doing this is so fucking toxic. I've always enjoyed my alone time a lot. In fact it's probably the only thing I want from my life. I never really enjoyed having a girlfriend or a partner. But here on this earth if you don't have a partner, you're a loser. Same with other things, if you're not at the top of your class, if you don't have a good social life, if you're not the best at SOMETHING, you're nothing. So I told myself that I have to better I have to be more. I slowly got the sense that whatever I did, was not enough. I would never be good enough. Good enough for what you ask? I didn't know either. Good enough for my parents? I never cared what they think of me since they barely have their own life stitched together. Good enough for my future partner? I never even wanted a partner. Good enough for the people around me? Fuck them all. But I pressured myself into become better anyways. Not knowing where I'm headed and what I'm "supposed" to do. Having all of that chaos going on in my head plus puberty plus having parents who didn't really know what they were doing, was truely a horrific combination. I was constantly confused, scared, and stressed.  
+
+**The previous year I worked on myself to gain what I've already lost.** I craved that strong sense of self I had when I was smaller. The difference is that the first time it was god given, and this time, I had to earn it. I had to let go of my hatred toward others. I had to let go of my anger. I had to let go of my self-loathing. And funny enough, the self-loathing part was the hardest to let go of. I absolutely hated everything about myself. The way I look, the way I talk, the way I laugh. I was so insanely insecure about anything I could possibly think of. The most important aspect of my self-loathing was the victim complex. I explained this the last time. I needed somene in my life to save me from the hell of my own creation. With that gone I've regained at least a percentage of that peace and that boredom in my life. 
+
+**Another aspect of having that peaceful state of mind** is losing interest in social media. Social media like any other thing, is a tool. It's so easy to forget something so essential. Just back in the old days when social media simply did not exist, browsing the web all day was considered to be unhealthy. How do you expect that the current state of the world would be considered "healthy"? It's all just poision. If you let it, it's going to take control of your life and your mind. Checking the amount of likes a post will get, checking what the comments have to say about you, feeling bad about yourself because others are so much more talented and/or better looking than you. But regaining control of that aspect of my life and my mind has been easy, relatively speaking. 
+
+![Cowboy Bebop](assets/img/posts/2024-06-07/3.jpeg)
+
+**I'm gonna wrap up this ramble** with saying that ... I honestly think that we need to be bored. Or at least I need to. I need the dopamin detox to truely appreciate the good things in my life. I need the effects of other people's need for validation and relevancy to fade away from my mind to understand what I want from MY life. I want to have the same peace of mind that I had when I was a kid. Or a peace of mind that's even better than before, because this time I know its value. 
