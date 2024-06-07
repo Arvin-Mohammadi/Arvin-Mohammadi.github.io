@@ -1,9 +1,9 @@
 ---
 title: Start of a New Project
-date: 2024-06-06
+date: 2024-06-06 23:00:00
 categories: [Diary]
 tags: [my_thoughts]
-toc: false 
+toc: false
 ---
 
 ![Airi](assets/img/posts/2024-06-06/1.jpg)
