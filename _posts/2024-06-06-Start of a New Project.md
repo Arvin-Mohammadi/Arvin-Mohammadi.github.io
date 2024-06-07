@@ -1,5 +1,5 @@
 ---
-title: Start of a New Project 
+title: Start of a New Project
 date: 2024-06-06
 categories: [Diary]
 tags: [my_thoughts]
