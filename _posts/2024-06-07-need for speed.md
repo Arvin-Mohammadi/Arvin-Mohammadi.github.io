@@ -12,9 +12,9 @@ toc: false
 
 ![NFS](assets/img/posts/2024-06-07/11.jpg)
 
-**Fucking hell I wanted to talk about the NFS Franchise not have an exiential crisis on the first post related to gaming.** But that's ok. There is not much to say anyways. I love the NFS Franchise and I want to play all of its good games. If fact ... let's do that. Let's make a list of the games I want to play, but before that, let's take a Listen to some bangers from NFS-Rivals.
+**Fucking hell I wanted to talk about the NFS Franchise not have an exiential crisis on the first post related to gaming.** But that's ok. There is not much to say anyways. I love the NFS Franchise and I want to play all of its good games. If fact ... let's do that. Let's make a list of the games I want to play, but before that, let's take a Listen to some bangers from NFS-Rivals. Here's the [LINK](<https://drive.google.com/drive/folders/1mdCygjtNWRintQ7TmlCIG3wEoNZ3vK4i?usp=drive_link>) to some more tracks.
 
 ![NFS](assets/img/posts/2024-06-07/10.jpg)
 
-{% include embed/audio.html src='https://drive.google.com/drive/folders/1mdCygjtNWRintQ7TmlCIG3wEoNZ3vK4i/Track1.mp3' title='Bangs' %}
+{% include embed/audio.html src='assets/music/posts/2024-06-07/Brick + Mortar - Locked in a Cage (NFS Rivals) .mp3' title='Locked In a Cage' %}
 
