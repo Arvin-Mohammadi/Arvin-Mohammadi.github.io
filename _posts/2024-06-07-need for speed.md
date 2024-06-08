@@ -16,4 +16,5 @@ toc: false
 
 ![NFS](assets/img/posts/2024-06-07/10.jpg)
 
-{% include embed/audio.html src='{https://drive.google.com/file/d/1p1xH-bezp_WuRD1VALY2ZysS5lnt4jgs/view?usp=sharing}' title='Bangs' %}
+{% include embed/audio.html src='https://drive.google.com/drive/folders/1mdCygjtNWRintQ7TmlCIG3wEoNZ3vK4i/Track1.mp3' title='Bangs' %}
+
