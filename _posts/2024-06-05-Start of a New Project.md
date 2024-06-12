@@ -7,10 +7,12 @@ toc: false
 ---
 
 ![Airi](assets/img/posts/2024-06-06/1.jpg)
+_I absolutely adore this girl ... she was the perfect prize for the protagonist upon becoming who he truely wants to be. There is of course the isuee that she has one of the most likable personalities despite getting so little screen-time_ 
 
 **I spent my entire day setting this up**, instead of my thesis project which is way more urgent and important. Oh well ... it is what it is. I started this project because I wanted a small space of internet dedicated just to me and my thoughts. It would be up for the public to see. However, no one would really notice since it's not referenced anywhere and probably won't appear on the search results anyways. It feels like hiding a tree in a forest or even better than that, hiding a treasure in the public eye, isn't that sort of exciting? I watched a video from Jacob Geller titled "Art for no one" and that was the main inspiration for this along with some other ideas I've had for a number of years now
 
 ![Airi](assets/img/posts/2024-06-06/2.jpg){: .w-50 .left}
+_"Those who believe want to be believed as well"_
 
 **Lately I've been re-watching a bunch of my old favorite anime.** I've forgotten why I was so set on them being my most favorite pieces of media. Cowboy Bebop, Erased, Your Lie in April, etc. When I was watching them for the first time, I was extremely lonely and most likely suicidal. But wathcing them and learning their lessons would result in a version of me who is more hopeful and optimistic. I decided to re-watch them because I wanted a taste of my own emotions from the past. What was it that moved me so deeply when I needed it the most? I wanted to consult my past self for advice because I'm having a new type of problem, something I don't think I've faced before. The new problem is that ... I'm happy? 
 

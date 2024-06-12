@@ -1,13 +1,13 @@
 ---
 title: Sleep Paralysis 
-date: 2024-06-10 13:16:03
+date: 2024-06-11 12:00:00
 categories: [Diary]
 tags: [my_thoughts]
 toc: false
 ---
 
 ![Sleep Paralysis Demon](assets/img/posts/2024-06-10/3.jpeg)
-_Daddy_
+_Daddyyyy *starts moaning*_
 
 **I had another episode of sleep paralysis last night which indicates that my sleep schedule is absolutely fucked** and I don't know how to fix it. I've been trying to for the past god knows how long. This time, I didn't feel anyone creeping their hand on my feet or my tap shoulders or see a figure above my head like the times before; This episode was somehow more terrifying than all of the previous episodes combined. 
 
