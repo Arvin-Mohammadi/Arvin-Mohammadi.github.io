@@ -27,6 +27,21 @@ What I SHOULD do instead, is to instantly confront the fear and ask myself "Why 
 
 When I'm writing this post, I've done exactly that. I was deprived, I gave myself the day off, watched Lord of the Rings: The Fellowship of the Ring, watched the new season of Yuru Camp (the first couple of episodes) both of which I will talk about in the future posts. But the point is ... at the end of the day I was crying my eyes out (not really; a man doesn't cry ... specially in public.) because I felt the inspiration and the motivation coming back to me. When I felt the drive to work again. When I remembered why I'm doing all of this in the first place. Then starting over was simple. I just went to sleep, woke up the next day, got ready and headed out to a cute cafe which was nearby. I started working on this post without any problem or build-up or any transitional work. 
 
-That's the gist of it. That's how I need to re-start and get my work done. When starting over I shoulndn't try to distract myself with anything. Just sit down and do what I wanted to do. It's as simple as that. There is no need to be worried or scared or anxious. I know I'm good at working. I've been doing it for more than a decade at this point. Trying to maximize everything and I have. Plus I've got the results to back it up. So I have to be confident in myself and the skills I've developed over the span of 10 years. 
+That's the gist of it. That's how I need to re-start and get my work done. When starting over I shouldn't try to distract myself with anything. Just sit down and do what I wanted to do. It's as simple as that. There is no need to be worried or scared or anxious. I know I'm good at working. I've been doing it for more than a decade at this point. Trying to maximize everything and I have. Plus I've got the results to back it up. So I have to be confident in myself and the skills I've developed over the span of 10 years. 
 
-> Future me, if you're reading this post for inspiration ... that shows you need a small break. Go watch one of them old anime. Then start over. You've got this my friend; trust me.  
+Edit: There is one last thing I wanted to talk about and that is time management throughout a single day:
+
+
+| Task                      | Dedicated Time       			|
+| :------------------------ | :---------------------------- |
+| Wake up & Get ready		| 1 to 2 hours 					|
+| Work (Main Work)			| 4 hours 						|
+| Eat (Breakfast)			| 0.5 to 1 hour					|
+| Work (Main Work)			| 4 hours 						|
+| Eat (Lunch)				| 2 hours						|
+| Work (Creative Projects)	| 2 to 4 hours					|
+| Get Ready for Sleep		| 5 to 7 hours					|
+
+> Lost time = 2 to 3.5 hours  
+
+Whenever you find yourself deviating from the plan ... forgive yourself and let yourself come back to it. Just like you did with meditation. Abusing yourself and holding yourself hostage is not going to do any good. Just let yourself flow back into the correct setting. 
