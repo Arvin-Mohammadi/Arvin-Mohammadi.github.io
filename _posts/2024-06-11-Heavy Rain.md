@@ -1,6 +1,6 @@
 ---
 title: Heavy Rain  
-date: 2024-06-11 23:59:59
+date: 2024-06-11 
 categories: [Gaming, Heavy Rain]
 tags: [played, story_driven]
 toc: false
