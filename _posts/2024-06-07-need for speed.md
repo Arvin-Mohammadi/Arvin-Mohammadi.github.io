@@ -1,6 +1,6 @@
 ---
 title: Need For Speed Rivals 
-date: 2024-06-07 15:30:00
+date: 2024-06-07 
 categories: [Gaming, NFS]
 tags: [played, racing, to_be_played]
 toc: false

@@ -1,6 +1,6 @@
 ---
 title: Art For No One 
-date: 2024-06-07 15:00:03
+date: 2024-06-07 
 categories: [Diary]
 tags: [my_thoughts]
 toc: false

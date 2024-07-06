@@ -1,6 +1,6 @@
 ---
 title: Sleep Paralysis 
-date: 2024-06-11 12:00:00
+date: 2024-06-11 
 categories: [Diary]
 tags: [my_thoughts]
 toc: false

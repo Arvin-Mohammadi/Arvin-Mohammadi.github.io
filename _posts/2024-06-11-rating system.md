@@ -1,6 +1,6 @@
 ---
 title: Game Rating System 
-date: 2024-06-11 23:00:00
+date: 2024-06-11 
 categories: [Diary]
 tags: [my_thoughts]
 toc: false
