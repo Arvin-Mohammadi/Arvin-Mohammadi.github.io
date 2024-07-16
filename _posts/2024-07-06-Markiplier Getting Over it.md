@@ -1,52 +1,85 @@
 ---
-title: Markiplier - Top Ten Playthroughs   
+title: Markiplier - Top Ten Playthroughs (My Personal Choices)
 date: 2024-07-06
 categories: [Gaming, Markiplier]
 tags: [watched]
 toc: false
 ---
 
-![Mark Going Insane](assets/img/posts/2024-07-06/1.jpg) 
-_"I'm gonna die i'm gonna die i'm gonna fucking die"_
-
 I want to name my favorite Markiplier playthroughs, because he's had such a huge influence on me and my taste of gaming. 
 
-# Getting Over it
 
-This was an instant classic. The moments Markimoo raged like there was no tomorrow will forever be funny as hell. I absolutely loved the time he fell onto his knees while screaming his head off and raising his fists to the sky ... oh the pure drama and theatre of it all. He also had a line like:
+# (1) Getting Over it
+
+This was an instant classic. The moments Markimoo raged like there was no tomorrow will forever be funny as hell. I absolutely loved the time he fell onto his knees while screaming his head off and raising his fists into the sky ... oh the pure drama and theatre of it all. And somehow the best part of it was Chika wagging her tail so ever so happily! My favorite quote from him during this let's play was: 
 
 > This is the thing that makes people turn into werewolves and that is a choice not a curse 
 
-I honestly love that he hated that game so much. I also remember Chika wagging her tail at Mark, despite him being in such despair. Thanks for being so entertaining Mark. 
+![Mark Going Insane](assets/img/posts/2024-07-06/1.jpg) 
+_"I'm gonna die i'm gonna die i'm gonna fucking die"_
 
-# Hearts and Heroes 
+
+# (2) Presentable Liberty
+
+This game will change your fucking life. The amount of emotion packed into the game was absolutely insane ... I've never seen Mark be so shaken by a game (except by maybe Hearts and Heroes but that's a different matter). Throughout the let's play he started to question things like his own let's play; He said this while observing the lonelyness of one of the characters: 
+
+> I'm just sitting in a room, alone, doing a let's play of a game, talking to a camera. You guys can't respond. Are you responding? Are you getting this message? Are you able to hear me? Cause I'm here in my pastry shop, all alone. I got my ukelele. I can't hear you guys. Are you there? Is anyone listening to me?
+
+Then there comes the backstory of the developer ... Robert Brock ... he died at the age of 22. Commited suicide because he believed no one will ever love his games (or so I've heard). This game was an insane experience of course along with Mark. Here's one to Wertpol Brock 🍻 Rest in Peace mate. 
+
+> Friends I never met are gone. Friends I shouldn't have cared about, I really care about. Imaginary people that don't exist that I never saw are gone, and I care.
+
+
+![Mark Going Insane](assets/img/posts/2024-07-06/5.png) 
+_"..."_
+
+
+# (3) Hearts and Heroes 
 
 I like this playthrough because it was a fan-game for Mark and his reaction to the ending was just so wholesome. It starts with Mark writing stupid names for the characters and just being goofy as fuck ... but it ends with him crying his eyes out. Everytime I watch the ending it makes me cry and that's why I like Mark ... He truely cares for what he does and he truely cares for his community. I don't think I've seen many people with this level of passion. This playthrough for me is one of the best ones if not the best one in Markiplier's channel.
 
-# The Last of Us 
 
-I really liked how enthusiastic he was and how invested he was in the story. He really really absorbed this game and the characters.  His commentary was more on the serious side on this one and also it amazes me how he always is so on point with the plot predictions. 
+# (4) Firewatch
 
-# Untitled Goose Game 
+Another classic. The first thing I have to say is that I love Mark's hair in this let's play. The second thing I gotta say that this game has to be on the list only on the merit of it's opening sequence, there are very few games that are able to achieve that. Absolutely beautiful gameplay and Mark always adds his own charisma into the game which is so insanely enjoyable to watch. There was something really calming about watching someone like him just relax in a walking simulator game and do some random tasks, walk by the lake, and all that. I really liked the scene that two girls were skinny dipping in the lake and Mark's reaction to that. This game and this let's play will forever be etched into my memory.
 
-The moment he played this game it became one of my favorite Mark playthroughs, purely because of the chaotic nature of it. The playthrough starts with Mark singing an absolutely idiotic song about a goose and then he goes on to goose all over the goose game. Loved it. Goose/10. (Also there is a moment where he says "Ok so how do I trap the child" which is priceless).
+![Mark Playing Firewatch](assets/img/posts/2024-07-06/2.jpg) 
+_"Almost too beautiful"_
 
-# Buried 
 
-If I didn't get the name wrong, I think this was an interactive game and it's basically a bedtime story with a Markiplier voice-over and it's a treat honestly. Again, I really liked how invested he became in the story and how he predicted the outcomes and tried to choose the best path for the characters. The story was pretty good as well. 
+# (5) The Last of Us 
 
-# West of Loathing
+The funny thing is that I started watching let's plays with Pewdiepie's let's play of The Last of Us (actually the first one was his minecraft series but you get the point) and somehow I despite that being the very thing that brought me into this form of entertainment I still choose Mark over his version. I really liked how enthusiastic and how invested he was in the story. He really really absorbed this game and the characters.  His commentary was more on the serious side on this one and also it amazes me how he always is so on point with the plot predictions. 
 
-I think another classic of his, is this game. The game was utterly stupid and he made the most out of the sheer stupidity of the game. 
 
-# Firewatch
+# (6) West of Loathing & Shadow of Loathing 
 
-Another classic. Absolutely beautiful game and Mark always adds his own charisma into the game which is so insanely enjoyable to watch. There was something really calming about watching someone like him just relax in a walking simulator game and do some random tasks, walk by the lake, and all that. 
+I think another classic of his, is this game. The game was utterly stupid and he made the most out of the sheer stupidity of the game. Easily his funniest playthrough. 
 
-# The Henry Stickman 
+# (7) FNAF 
 
-We can't talk about Markiplier and not talk about Henry the Stickman cause he basically defined this game (same with FNAF but still)
+Not much to say on this one ... Mark is the king of FNAF so ... I can't not put it on the list.
 
-#  Presentable Liberty
+![Mark Playing Firewatch](assets/img/posts/2024-07-06/3.jpg) 
+![Mark Playing Firewatch](assets/img/posts/2024-07-06/4.jpg) 
 
-Oh fuck almost forgot this one. This game will change your fucking life. The amount of emotion packed into the game was absolutely insane ... there is also the fact that the developer of the game died believing that no one will ever like his games but Mark played it and he + all of the community absolutely adored the game. 
+
+# Honarable Mentions
+
+Here are the rest of the let's plays that I really adored but they're not included in the top ten.
+
+## ⭐ The Henry Stickman 
+
+I always liked the stickman games but Henry the stickman was really something else 😆
+
+## ⭐ Buried 
+
+Tt's basically a bedtime story with a Markiplier voice-over and it's a treat honestly.
+
+## ⭐ Little Nightmares 
+
+Little Nightmares is a fantastic game. I kinda regret not playing it myself though. 
+
+## ⭐ Untitled Goose Game 
+
+He goosed all over the goosing game. Goose/10
