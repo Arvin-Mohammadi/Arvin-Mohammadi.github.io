@@ -1,7 +1,7 @@
 ---
 title: Katana Zero  
 date: 2024-06-20
-categories: [Gaming, Katana Zero]
+categories: [Gaming, Finished Games]
 tags: [played]
 toc: false
 ---
@@ -22,4 +22,4 @@ _Cute fanart (T-T)_
 
 Not much else to say ... except that ...
 
-> Score - 11/10
+> Score - 10/10

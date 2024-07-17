@@ -18,6 +18,18 @@ I have this huge problem when it comes to working, because for some unknown reas
 | Creative					| I want to make or experience something beautiful	|
 | Deprived					| I lack inspiration or motivation 					|
 | Lonely/Sad				| This world isn't worth living						|
+| Horny                     | ...                                               | 
+| Autopilot                 | It's when I don't understand what I'm doing       |
+
+Let's just quickly talk about how to deal with each of these moods:
+
+- ***Chill*** it's most likely to me not having the ambition of achieving anything and I just wanna exist ... to change this I should just think of the stuff I really want to do 
+- ***Monster*** well it's basically when I'm in the zone which lasts about a week or two usually 
+- ***Creative*** This happens when I just want to walk around and daydream ... this mood can actually be very helpful, if I lack inspiration I can use this to get back my ambitions, if I want to write a story for my games I can use this mood to come up with the wildest scenarios ... I think this is a very useful mood 
+- ***Deprived*** This happens after the high level of focus for too long, it can be settled with having a chill time for a day or two 
+- ***Lonely*** This can be resolved using the Horny mood XD I'm sorry but it's just that simple 
+- ***Horny*** Well ... let's just not talk about that 
+- ***Auto-pilot*** Now this ... this is the thing I want to avoid with all my heart. This simply is the worst state I can be in
 
 These are the ones I can currently think of. By the way, notice how there isn't any social related mode in there? Lol. It's pretty obvious that I have these "moods" or "modes", or whatever the fuck we're gonna call them, and in the correct situation they're all good to have and they all have their own purposes. In an ideal world where I have the perfect amount of work corresponding to each of my moods, I can perfectly maximize what I'm given; There wouldn't be a problem at all. But unfortunately, that's not the case. 
 
@@ -44,4 +56,8 @@ Edit: There is one last thing I wanted to talk about and that is time management
 
 > Lost time = 2 to 3.5 hours  
 
-Whenever you find yourself deviating from the plan ... forgive yourself and let yourself come back to it. Just like you did with meditation. Abusing yourself and holding yourself hostage is not going to do any good. Just let yourself flow back into the correct setting. 
+Whenever you find yourself deviating from the plan ... forgive yourself and let yourself come back to it. Just like you did with meditation. Abusing yourself and holding yourself hostage is not going to do any good. Just let yourself flow back into the correct setting.
+
+#### Edit - 2024-07-17
+
+Currently my biggest problem is that I can't enter the flow-state and I don't know what's wrong with me. I'm assuming when the situation changes and I feel like my life is moving forwards this problem will sort itself out and for now I just have to work on normal mode. I should understand that I've lost that super-power at least for the next year or so. I'll try to do my best.

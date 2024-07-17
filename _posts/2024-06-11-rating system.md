@@ -1,5 +1,5 @@
 ---
-title: Game Rating System 
+title: Rating System
 date: 2024-06-11 
 categories: [Diary]
 tags: [my_thoughts]
@@ -11,13 +11,12 @@ _Some Random Game_
 
 I want to develop a rating system for my gaming experience ... or maybe just in general any sort of experience such as an anime, series, book, etc. At least I think the logic will apply
 
-- **10**: A perfect gaming experience. Would play again and again until I die.
-- **09**: A perfect gaming experience. I want to lose my memory just to experience it again.
-- **08**: A perfect gaming experience. But I probably won't play it again.
-- **07**: It was worth the time I spent on it.
-- **06**: It wasn't worth the time I spent on it.
-- **05**: This is what I call a bad experience.
-- **00**: The creator of this game should kill himself.
-- **11**: The rating system does not do this justice. You Will Cum Experiencing This.
+- **10**: You Will Cum Experiencing This
+- **09**: Insanely well-made and a perfect experience
+- **08**: Insanely well-made, just doesn't have that X-factor for me
+- **07**: It was worth the time I spent on it
+- **06**: It wasn't worth the time I spent on it
+- **05**: This is what I call a bad experience
+- **01**: The creator of this should kill himself
 
 Of course this logic of rating will apply to any other experience I've had. For instance this post is a 7/10 because it was worth the time to make it, but it's not a perfect post since I feel I'm somewhat rushing it.  

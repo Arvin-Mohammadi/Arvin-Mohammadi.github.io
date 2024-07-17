@@ -1,7 +1,7 @@
 ---
-title: Markiplier - Top Ten Playthroughs (My Personal Choices)
+title: Best Markiplier Let's Plays 
 date: 2024-07-06
-categories: [Gaming, Markiplier]
+categories: [Gaming, Let's Plays]
 tags: [watched]
 toc: false
 ---
@@ -21,7 +21,7 @@ _"I'm gonna die i'm gonna die i'm gonna fucking die"_
 
 # (2) Presentable Liberty
 
-This game will change your fucking life. The amount of emotion packed into the game was absolutely insane ... I've never seen Mark be so shaken by a game (except by maybe Hearts and Heroes but that's a different matter). Throughout the let's play he started to question things like his own let's play; He said this while observing the lonelyness of one of the characters: 
+This game will change your fucking life. The amount of emotion packed into the game was absolutely insane ... I've never seen Mark be so shaken by a game (except by maybe Hearts and Heroes but that's a different matter). Throughout the let's play he started to question things like his own let's play; He said this while observing the loneliness of one of the characters: 
 
 > I'm just sitting in a room, alone, doing a let's play of a game, talking to a camera. You guys can't respond. Are you responding? Are you getting this message? Are you able to hear me? Cause I'm here in my pastry shop, all alone. I got my ukelele. I can't hear you guys. Are you there? Is anyone listening to me?
 
@@ -74,7 +74,7 @@ I always liked the stickman games but Henry the stickman was really something el
 
 ## ⭐ Buried 
 
-Tt's basically a bedtime story with a Markiplier voice-over and it's a treat honestly.
+It's basically a bedtime story with a Markiplier voice-over and it's a treat honestly.
 
 ## ⭐ Little Nightmares 
 

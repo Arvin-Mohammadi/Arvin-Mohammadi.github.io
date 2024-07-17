@@ -1,8 +1,8 @@
 ---
 title: Need For Speed Rivals 
 date: 2024-06-07 
-categories: [Gaming, NFS]
-tags: [played, racing, to_be_played]
+categories: [Gaming, Finished Games]
+tags: [played, to_be_played]
 toc: false
 ---
 
@@ -30,4 +30,4 @@ _Still one of my favorite screenshots ever, since the moment slips away pretty f
 ![NFS](assets/img/posts/2024-06-07/10.jpg)
 _The rain hitting the camera is all I need in my life_ 
 
-> Score - 10/10
+> Score - 9/10
