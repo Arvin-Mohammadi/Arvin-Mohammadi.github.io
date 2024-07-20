@@ -7,7 +7,7 @@ toc: false
 ---
 
 
-One of the best works of fictin I've ever read ... Period.
+One of the best works of fiction I've ever read ... Period.
 
 > Score - 10/10
 
