@@ -9,17 +9,7 @@ toc: false
 I want to name my favorite Markiplier playthroughs, because he's had such a huge influence on me and my taste of gaming. 
 
 
-# (1) Getting Over it
-
-This was an instant classic. The moments Markimoo raged like there was no tomorrow will forever be funny as hell. I absolutely loved the time he fell onto his knees while screaming his head off and raising his fists into the sky ... oh the pure drama and theatre of it all. And somehow the best part of it was Chika wagging her tail so ever so happily! My favorite quote from him during this let's play was: 
-
-> This is the thing that makes people turn into werewolves and that is a choice not a curse 
-
-![Mark Going Insane](assets/img/posts/2024-07-06/1.jpg) 
-_"I'm gonna die i'm gonna die i'm gonna fucking die"_
-
-
-# (2) Presentable Liberty
+# (1) Presentable Liberty
 
 This game will change your fucking life. The amount of emotion packed into the game was absolutely insane ... I've never seen Mark be so shaken by a game (except by maybe Hearts and Heroes but that's a different matter). Throughout the let's play he started to question things like his own let's play; He said this while observing the loneliness of one of the characters: 
 
@@ -33,6 +23,18 @@ Then there comes the backstory of the developer ... Robert Brock ... he died at 
 ![Mark Going Insane](assets/img/posts/2024-07-06/5.png) 
 _"..."_
 
+As for me ... I lost my sense of reality when I was watching this let's play ... that world's rules didn't make much sense but it didn't really need to. What made sense to me was the emotions that each character was going through. That crushing feeling that no one is there to listen to what you have to say ... that there is no one watching your existance ... that you are slowly rotting away in a dead world. The feeling can make you slowly lose all hope despite wanting to grab onto anything you feel like you are falling deeper and deeper into the abyss.
+
+To me this was the greatest let's play that Mark has done so far simply because I've felt that feeling to my very core. I know what Charlotte was going through and I wanted to cheer for her I wanted her to stay alive ... I wanted her to be happy ... Mr. Smiley I wanted him to see his daughters ... I wanted the protag so have another drink with Sal like the ol' times ... Dr. Money ... I hated him with every fiber of my being. I still feel all of that.  
+
+# (2) Getting Over it
+
+This was an instant classic. The moments Markimoo raged like there was no tomorrow will forever be funny as hell. I absolutely loved the time he fell onto his knees while screaming his head off and raising his fists into the sky ... oh the pure drama and theatre of it all. And somehow the best part of it was Chika wagging her tail so ever so happily! My favorite quote from him during this let's play was: 
+
+> This is the thing that makes people turn into werewolves and that is a choice not a curse 
+
+![Mark Going Insane](assets/img/posts/2024-07-06/1.jpg) 
+_"I'm gonna die i'm gonna die i'm gonna fucking die"_
 
 # (3) Hearts and Heroes 
 
