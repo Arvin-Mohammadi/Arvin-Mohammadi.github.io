@@ -9,7 +9,7 @@ toc: false
 ![Game](assets/img/posts/2024-06-12/1.jpg)
 _Some Random Game_
 
-I want to develop a rating system for my gaming experience ... or maybe just in general any sort of experience such as an anime, series, book, etc. At least I think the logic will apply
+I want to develop a rating system for my gaming experience ... or maybe just in general any sort of experience such as an anime, series, book, etc.
 
 - **10**: You Will Cum Experiencing This
 - **09**: Insanely well-made and a perfect experience
@@ -19,4 +19,4 @@ I want to develop a rating system for my gaming experience ... or maybe just in 
 - **05**: This is what I call a bad experience
 - **01**: The creator of this should kill himself
 
-Of course this logic of rating will apply to any other experience I've had. For instance this post is a 7/10 because it was worth the time to make it, but it's not a perfect post since I feel I'm somewhat rushing it.  
+For instance this post is a 7/10 because it was worth the time to make it, but it's not a perfect post since I feel I'm somewhat rushing it.  

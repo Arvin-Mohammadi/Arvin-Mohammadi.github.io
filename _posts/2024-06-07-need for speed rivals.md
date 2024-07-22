@@ -17,7 +17,7 @@ _I absolutely adore the aesthetic of this image_
 ![NFS](assets/img/posts/2024-06-07/11.jpg)
 _Still one of my favorite screenshots ever, since the moment slips away pretty fast and taking a screenshot in the middle of a game is a pain_ 
 
-**Fucking hell I wanted to talk about the NFS Franchise, not have an exiential crisis on my first gaming related post.** But that's ok. There is not much to say anyways. I love the NFS Franchise and I want to play all of its good games. If fact ... let's do that. Let's make a list of the games I want to play and also, let's take a Listen to some bangers from NFS-Rivals. Here's the [LINK](<https://drive.google.com/drive/folders/1mdCygjtNWRintQ7TmlCIG3wEoNZ3vK4i?usp=drive_link>). Here's the list:
+**Fucking hell I wanted to talk about the NFS Franchise, not have an exiential crisis on my first gaming related post.** But that's ok. There is not much to say anyways. I love the NFS Franchise and I want to play all of its good games. In fact ... let's do that. Let's make a list of the games I want to play and also, let's take a Listen to some bangers from NFS-Rivals. Here's the [LINK](<https://drive.google.com/drive/folders/1mdCygjtNWRintQ7TmlCIG3wEoNZ3vK4i?usp=drive_link>). Here's the list:
 
 - [ ] Need For Speed Series
   - [ ] Need for Speed: Underground 2 (2004)
