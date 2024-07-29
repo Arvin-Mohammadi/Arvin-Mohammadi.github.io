@@ -1,5 +1,5 @@
 ---
-title: Need For Speed Rivals 
+title: Need For Speed Rivals
 date: 2024-06-07 
 categories: [Gaming, Finished Games]
 tags: [played, to_be_played]

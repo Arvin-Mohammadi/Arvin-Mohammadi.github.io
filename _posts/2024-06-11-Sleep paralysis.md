@@ -1,5 +1,5 @@
 ---
-title: Sleep Paralysis 
+title: Sleep Paralysis
 date: 2024-06-11 
 categories: [Diary]
 tags: [my_thoughts]

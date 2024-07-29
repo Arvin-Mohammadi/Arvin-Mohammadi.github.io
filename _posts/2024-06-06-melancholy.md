@@ -1,5 +1,5 @@
 ---
-title: Melancholy 
+title: Melancholy
 date: 2024-06-06 
 categories: [Diary]
 tags: [my_thoughts]

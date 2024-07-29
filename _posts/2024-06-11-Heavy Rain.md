@@ -1,5 +1,5 @@
 ---
-title: Heavy Rain  
+title: Heavy Rain
 date: 2024-06-11 
 categories: [Gaming, Finished Games]
 tags: [played]

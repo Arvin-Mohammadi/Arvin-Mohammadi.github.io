@@ -1,5 +1,5 @@
 ---
-title: Procrastination 
+title: Procrastination
 date: 2024-06-13
 categories: [Diary]
 tags: [my_thoughts]
@@ -55,3 +55,17 @@ Whenever you find yourself deviating from the plan ... forgive yourself and let 
 #### 2024-07-17
 
 Currently my biggest problem is that I can't enter the flow-state and I don't know what's wrong with me. I'm assuming when the situation changes and I feel like my life is moving forwards this problem will sort itself out and for now I just have to work on normal mode. I should understand that I've lost that super-power at least for the next year or so. I'll try to do my best.
+
+#### 2024-07-29
+
+Figured something out about anxiety yesterday. The main reason that anxiety exists is simply to remind you of the shit that you have to do. That's it. We knew that already. But the problem starts when I'm doing what the anxiety tells me to do ... then it ideally should go away right? But mine doesn't go away. The conversation goes something like this:
+
++ bro i'm doing what you asked me to!
+- YOU'RE NOT DOING IT FAST ENOUGH!
++ oh shoot! ok i'll try to do it faster then 
+- NO YOU FUCKING IDIOT YOU'RE DROPPING THE QUALITY
++ ... 
+- HURRY THE FUCK UP YOU CUNT 
++ ***starts crying T-T***
+
+Maybe despite what I tell myself, I haven't been properly listening to my own anxiety and what it asks of me.

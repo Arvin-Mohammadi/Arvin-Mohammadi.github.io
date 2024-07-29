@@ -7,7 +7,6 @@ toc: false
 ---
 
 ![Game](assets/img/posts/2024-06-12/1.jpg)
-_Some Random Game_
 
 I want to develop a rating system for my gaming experience ... or maybe just in general any sort of experience such as an anime, series, book, etc.
 

@@ -10,7 +10,7 @@ toc: false
 
 ## Daydreaming is Really Addictive
 
-**I rewatched Presentable Liberty let's play from Mark's old archives and as a result I'm feeling something that is very hard to explain.** I feel like I'm slowly losing sense of what makes me myself ... losing my grip on what's real and what's not. I both hate and love the feeling of getting lost in your own mind. The Evanescence song "Imaginary" really communicates this feeling to the listener: 
+**I rewatched Presentable Liberty let's play from Mark's old archives and as a result I'm feeling something that is very hard to explain.** I feel like I'm slowly losing sense of what makes me myself ... losing my grip on what's real and what's not. I both hate and love the feeling of getting lost in my own mind. The Evanescence song "Imaginary" really communicates this feeling to the listener: 
 
 > I linger in the doorway; 
 > Of alarm clock screaming monsters calling my name; 
@@ -21,7 +21,7 @@ toc: false
 > I lie inside myself for hours;
 > And watch my purple sky fly over me
 
-Dear non-existant reader! See how sweet the lyrics are? I'm sure everyone has experienced it to some degree. Getting lost in your mind daydreaming of a place that you're safe and nothing can harm you. It can be an addicting experience as you become more and more invested in the idea of your perfect little world. 
+My dear non-existant friend! See how sweet the lyrics are? I'm sure everyone has experienced it to some degree. Getting lost in your mind daydreaming of a place that you're safe and nothing can harm you. It can be an addicting experience as you become more and more invested in the idea of your perfect little world. 
 
 Am I rambling? I feel like I'm rambling. 
 

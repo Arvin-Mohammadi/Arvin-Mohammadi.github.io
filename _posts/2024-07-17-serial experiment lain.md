@@ -1,5 +1,5 @@
 ---
-title: Serial Experiment Lain
+title: Serial Experiment Lain 
 date: 2024-07-17
 categories: [Anime]
 tags: [watched]

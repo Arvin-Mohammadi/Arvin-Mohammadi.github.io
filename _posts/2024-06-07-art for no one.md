@@ -1,5 +1,5 @@
 ---
-title: Art For No One 
+title: Art For No One
 date: 2024-06-07 
 categories: [Diary]
 tags: [my_thoughts]

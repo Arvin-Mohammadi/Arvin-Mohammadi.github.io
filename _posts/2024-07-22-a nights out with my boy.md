@@ -1,8 +1,8 @@
 ---
-title: A Night Out With My Boi
+title: A Good Night Out
 date: 2024-07-22
 categories: [Diary]
-tags: [my_thoughts]
+tags: [rambling]
 toc: false
 ---
 
