@@ -2,7 +2,7 @@
 title: Katana Zero
 date: 2024-06-20
 categories: [Gaming, Finished Games]
-tags: [played, SSS_games]
+tags: [played, SSS_tier]
 toc: false
 ---
 

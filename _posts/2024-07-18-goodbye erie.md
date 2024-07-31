@@ -2,7 +2,7 @@
 title: Goodbye Eri
 date: 2024-07-18
 categories: [Manga]
-tags: [read, SSS_manga]
+tags: [read, SSS_tier]
 toc: false
 ---
 
