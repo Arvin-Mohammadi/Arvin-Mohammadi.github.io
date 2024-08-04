@@ -15,7 +15,7 @@ Hello my dear friend! Once again I'm writing for you and I know you're not readi
 
 **Well I'm just doing it for the attention.** When I started this new format of writing my diary that was the first thought I had.
 
-> Oh! I'm just doing this because like everything else I do, I want to show it to others, getting some sort of praise out of it. I'm doing it because I'm an attention whore and in need of constant validation from others
+> Oh! I'm just doing this because like everything else I do, I want to show it off to others and getting some sort of praise as a result. I'm doing it because I'm an attention whore and in need of constant validation from others
 
 That thought drove me to not tell about this project to anyone, even to my best friend. I've mentioned some form of new diary I'm trying and I'm loving it, but never mentioned what it is and never gave a clue for him how to find it. There is the fact that I'm putting it on public domain but maybe that is a hint that I'm an exhibitionist rather than an attention whore 😂😭 Oh god! If you're up there, forgive me. So that sorts that out. No need for attention or validation is involved now that no one knows about it. 
 
