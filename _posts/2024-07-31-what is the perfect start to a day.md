@@ -1,5 +1,5 @@
 ---
-title: What is the Perfect Start to a Day
+title: What's The Perfect Start To a Day? 
 date: 2024-07-31
 categories: [Diary]
 tags: [diary]
