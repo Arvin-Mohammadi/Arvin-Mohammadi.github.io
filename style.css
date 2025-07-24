@@ -1,4 +1,8 @@
-/* style.css */
+@font-face {
+    font-family: 'Asley';
+    src: url('Asley.ttf') format('truetype');
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -9,9 +13,10 @@ body {
     align-items: center;
     color: white;
     font-size: 3rem;
-    font-family: Arial, sans-serif;
+    font-family: 'Asley', Arial, sans-serif;
 }
 
 .centered-text {
     text-align: center;
+    transition: opacity 1s ease;
 }
