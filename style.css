@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Asley';
-    src: url('Asley.ttf') format('truetype');
+    font-family: 'Ashley';
+    src: url('Ashley.ttf') format('truetype');
 }
 
 body {
@@ -13,7 +13,7 @@ body {
     align-items: center;
     color: white;
     font-size: 3rem;
-    font-family: 'Asley', Arial, sans-serif;
+    font-family: 'Ashley', Arial, sans-serif;
 }
 
 .centered-text {
