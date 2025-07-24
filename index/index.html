@@ -1,0 +1,41 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Meta Data and Initial Setup -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arvin Mohammadi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<!-- Page Content -->
+<body>
+
+    <!-- Fade Transition Overlay -->
+    <div class="fade-overlay" id="fade-overlay"></div>
+
+    <!-- Center Splash Text -->
+    <div class="centered-text" id="splash-text">Arvin Mohammadi</div>
+    
+    <!-- index.html back-end -->
+    <script>
+    // Fade Transition Logic
+    document.body.addEventListener('click', () => {
+        const splash = document.getElementById('splash-text');
+        const overlay = document.getElementById('fade-overlay');
+
+        splash.style.opacity = '0';
+        overlay.style.opacity = '1';
+
+        setTimeout(() => {
+            window.location.href = '../main/main.html';
+        }, 1000); // Timer = 1000 ms
+    });
+    </script>
+
+</body>
+
+</html>
