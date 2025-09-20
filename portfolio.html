@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Arvin Mohammadi" />
+    <meta
+      name="description"
+      content="My personal website, containing my personal and professional achievements"
+    />
+    <meta name="keywords" content="Robotics, Game-Development" />
+
+    <title>Arvin Mohammadi - Portfolio</title>
+    <link rel="icon" href="img/Favicon.png" />
+    <link rel="stylesheet" href="styles/main.css" />
+    <link rel="stylesheet" href="vendors/fontawesome/css/all.min.css" />
+  </head>
+
+  <body>
+    <header id="navbar">
+      <div id="navbar-inner">
+        <div id="navbar-buttons">
+          <a class="active navbar-button" href="portfolio.html">Portfolio</a>
+          <a class="navbar-button" href="projects.html">Projects</a>
+          <a class="navbar-button" href="gallery.html">Gallery</a>
+          <a class="navbar-button" href="blog.html">Blog</a>
+          <a class="navbar-button" href="contact.html">Contact</a>
+        </div>
+        <label id="menu-button" for="menu-toggle">
+          <i class="fa-solid fa-bars"></i>
+        </label>
+      </div>
+    </header>
+
+    <input type="checkbox" id="menu-toggle" />
+
+    <div id="menu-overlay">
+      <label id="menu-close" for="menu-toggle">
+        <i class="fa-solid fa-xmark"></i>
+      </label>
+      <nav class="overlay-links">
+        <a class="navbar-button" href="portfolio.html">Portfolio</a>
+        <a class="navbar-button" href="projects.html">Projects</a>
+        <a class="navbar-button" href="gallery.html">Gallery</a>
+        <a class="navbar-button" href="blog.html">Blog</a>
+        <a class="navbar-button" href="contact.html">Contact</a>
+      </nav>
+    </div>
+
+    <main>
+      <section id="portfolio-hero">
+        <div class="detail-container">
+          <h1>Arvin Mohammadi</h1>
+          <p>
+            The word "passionate" is thrown around very easily these days. I
+            don't consider myself to be a passionate software developer, but I
+            strive to be. I've started learning software development in the
+            first year of my bachelor's degree and ever since then I've applied
+            my knowledge in developing Robotics Software, Video Games, and Web
+            Design. This website and its content are meant to serve as a
+            demonstration of those efforts.
+          </p>
+        </div>
+
+        <div class="image-container">
+          <img
+            src="img/Profile-Picture.png"
+            alt="Profile Picture"
+            width="400"
+          />
+        </div>
+
+        <div id="resume">
+          <a href="/data/cv.pdf" download>Download Résumé</a>
+        </div>
+      </section>
+
+      <section id="social-section">
+        <div class="hover-zone">
+          <a class="social-container" href="https://github.com/arvin-mohammadi">
+            <i class="fa-brands fa-github"></i>
+            <p>GitHub</p>
+          </a>
+        </div>
+
+        <div class="hover-zone">
+          <a class="social-container" href="https://frostbyte-studio.itch.io/">
+            <i class="fa-brands fa-itch-io"></i>
+            <p>Itch.Io</p>
+          </a>
+        </div>
+
+        <div class="hover-zone">
+          <a
+            class="social-container"
+            href="https://www.researchgate.net/profile/Arvin-Mohammadi-3?ev=hdr_xprf"
+          >
+            <i class="fa-brands fa-researchgate"></i>
+            <p>ResearchGate</p>
+          </a>
+        </div>
+
+        <div class="hover-zone">
+          <a
+            class="social-container"
+            href="https://bsky.app/profile/frostbytestudio.bsky.social"
+          >
+            <i class="fa-brands fa-bluesky"></i>
+            <p>Bluesky</p>
+          </a>
+        </div>
+      </section>
+
+      <section id="project-section" class="portfolio-section">
+        <div class="title-card">
+          <div class="long-dash"></div>
+          <h1>Featured Projects</h1>
+          <div class="long-dash"></div>
+        </div>
+
+        <div class="container-card-grid">
+          <div class="hover-zone">
+            <a href="#" class="container-card">
+              <div class="image-container">
+                <img
+                  src="img/projects/typical-space-shooter/Preview.png"
+                  alt="Project Preview"
+                  width="300"
+                />
+              </div>
+              <h2>Typical Space-Shooter</h2>
+              <p>
+                An on-going project focusing on improvement of the classic
+                space-shooter formula.
+              </p>
+              <div class="metadata">
+                <span>Game-Development</span>
+                <div class="long-dash"></div>
+                <span>2025</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="hover-zone">
+            <a href="#" class="container-card">
+              <div class="image-container">
+                <img
+                  src="img/projects/delta-robot-trajectory-generation/Preview.png"
+                  alt="Project Preview"
+                  width="300"
+                />
+              </div>
+              <h2>Delta Robot Trajectory Generation</h2>
+              <p>
+                A comparison study on different classic trajectory generation
+                methods for the Delta robot.
+              </p>
+              <div class="metadata">
+                <span>Robotics</span>
+                <div class="long-dash"></div>
+                <span>2025</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="hover-zone">
+            <a href="#" class="container-card" data-type="robotics">
+              <div class="image-container">
+                <img
+                  src="img/projects/automated-pipette-filling/Preview.jpg"
+                  alt="Automated Pipette Filling"
+                  width="300"
+                />
+              </div>
+              <h2>Automated Pipette Filling</h2>
+              <p>
+                Design and implementation of an automated pipette filling system
+                for laboratory use, improving accuracy and efficiency in liquid
+                handling.
+              </p>
+              <div class="metadata">
+                <span>Research</span>
+                <div class="long-dash"></div>
+                <span>2025</span>
+              </div>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section id="gallery-section" class="portfolio-section">
+        <div class="title-card">
+          <div class="long-dash"></div>
+          <h1>Gallery</h1>
+          <div class="long-dash"></div>
+        </div>
+        <div class="image-grid">
+          <div class="image-container">
+            <img
+              src="img/gallery/pixel-art-practice/image-6.png"
+              alt="Gallery Image"
+            />
+          </div>
+          <div class="image-container">
+            <img
+              src="img/gallery/pixel-art-practice/image-3.png"
+              alt="Gallery Image"
+            />
+          </div>
+          <div class="image-container">
+            <img
+              src="img/gallery/pixel-art-practice/image-1.png"
+              alt="Gallery Image"
+            />
+          </div>
+          <div class="image-container">
+            <img
+              src="img/gallery/typical-space-shooter/image-6.png"
+              alt="Gallery Image"
+            />
+          </div>
+          <div class="image-container">
+            <img
+              src="img/gallery/slice-of-my-life/2024-08-31-2126.jpg"
+              alt="Gallery Image"
+            />
+          </div>
+          <div class="image-container">
+            <img
+              src="img/gallery/slice-of-my-life/2016-07-15-1543.jpg"
+              alt="Gallery Image"
+            />
+          </div>
+          <div class="image-container">
+            <img
+              src="img/gallery/slice-of-my-life/2023-03-19-1825.jpg"
+              alt="Gallery Image"
+            />
+          </div>
+          <div class="image-container">
+            <img
+              src="img/gallery/slice-of-my-life/2023-03-17-1714.jpg"
+              alt="Gallery Image"
+            />
+          </div>
+        </div>
+      </section>
+      <section id="blog-section" class="portfolio-section">
+        <div class="title-card">
+          <div class="long-dash"></div>
+          <h1>Recent Blog Posts</h1>
+          <div class="long-dash"></div>
+        </div>
+
+        <div class="container-card-grid">
+          <div class="hover-zone">
+            <a href="#" class="container-card">
+              <div class="image-container">
+                <img
+                  src="img/blog/2025-06-11/preview.png"
+                  alt="Markiplier's Best Playthroughs"
+                  width="300"
+                />
+              </div>
+              <h2>Markiplier's Best Playthroughs</h2>
+              <p>
+                " Friends I never met are gone. Friends I shouldn't have cared
+                about, I really care about. Imaginary people that don't exist
+                that I never saw are gone, and I care. "
+              </p>
+              <div class="metadata">
+                <span>Blog</span>
+                <div class="long-dash"></div>
+                <span>2025-06-11</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="hover-zone">
+            <a href="#" class="container-card">
+              <div class="image-container">
+                <img
+                  src="img/blog/2025-07-14/preview.png"
+                  alt="Red Bull Racing"
+                  width="300"
+                />
+              </div>
+              <h2>Red Bull Racing</h2>
+              <p>
+                From the moment they stepped onto the grid, Red Bull Racing
+                became the protagonists of Formula 1.
+              </p>
+              <div class="metadata">
+                <span>Blog</span>
+                <div class="long-dash"></div>
+                <span>2025-07-14</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="hover-zone">
+            <a href="#" class="container-card">
+              <div class="image-container">
+                <img
+                  src="img/blog/2025-06-21/preview.png"
+                  alt="Dredge"
+                  width="300"
+                />
+              </div>
+              <h2>Dredge</h2>
+              <p>
+                What I truly adore about Dredge is that the game constantly
+                reminds you that you're not at the top of the food chain—not
+                even close.
+              </p>
+              <div class="metadata">
+                <span>Blog</span>
+                <div class="long-dash"></div>
+                <span>2025-06-21</span>
+              </div>
+            </a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <a
+        class="footer-button"
+        href="https://www.nabinkhair.com.np/blog/brutalist-minimalism-architectural-web-design"
+        >Design Inspiration: Brutalistic Minimalism</a
+      >
+    </footer>
+  </body>
+</html>

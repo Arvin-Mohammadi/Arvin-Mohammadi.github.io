@@ -1,0 +1,51 @@
+/* ============================================================= */
+/* ======================== BASIC SETUP ======================== */
+/* ============================================================= */
+
+:root {
+  /* New Color Palette */
+  --color-lighter: #eff0f9;
+  --color-light: #e1e2e3;
+  --color-medium: #c9ceec;
+  --color-dark: #2d3a6e;
+  --color-darker: #051319;
+}
+
+/* smooch-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Smooch";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/smooch-v8-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-darker);
+}
+
+/* ============================================================= */
+/* ======================== SECTION INIT ======================= */
+/* ============================================================= */
+
+#init {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: var(--color-darker);
+  transition: opacity 0.5s ease;
+  text-align: center;
+}
+
+#init a:link,
+#init a:visited,
+#init a:hover,
+#init a:active {
+  color: var(--color-lighter);
+  font-family: "Smooch";
+  font-size: 5rem;
+  text-decoration: none;
+}
